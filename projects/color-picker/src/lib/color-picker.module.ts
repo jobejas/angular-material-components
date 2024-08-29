@@ -33,7 +33,7 @@ import { ColorAdapter } from './services';
     NgxMatColorPickerComponent,
     NgxMatColorToggleComponent,
     NgxMatColorpickerToggleIcon,
-    NgxMatColorPickerInput
+    NgxMatColorPickerInput,
   ],
   imports: [
     CommonModule,
@@ -52,9 +52,6 @@ import { ColorAdapter } from './services';
     NgxMatColorPickerInput,
     NgxMatColorPickerComponent,
     NgxMatColorpickerToggleIcon
-  ],
-  entryComponents: [
-    NgxMatColorPickerContentComponent
   ],
   providers: [
     ColorAdapter,
