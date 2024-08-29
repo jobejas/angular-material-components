@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ngx-mat-moment-adapter
+ */
+export * from './lib/moment-adapter';
+export * from './lib/moment-formats';
+export * from './lib/moment-adapter.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL21vbWVudC1hZGFwdGVyL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxzQkFBc0IsQ0FBQztBQUNyQyxjQUFjLHNCQUFzQixDQUFDO0FBQ3JDLGNBQWMsNkJBQTZCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1tYXQtbW9tZW50LWFkYXB0ZXJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9tb21lbnQtYWRhcHRlcic7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tb21lbnQtZm9ybWF0cyc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9tb21lbnQtYWRhcHRlci5tb2R1bGUnOyJdfQ==
